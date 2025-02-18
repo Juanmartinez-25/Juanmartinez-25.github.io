@@ -55,7 +55,7 @@ function agregarAmigo() {
                 limpiarCaja();
     }
 
-        if (listaDeNombresdeamigos.length > 2) {
+        if (listaDeNombresdeamigos.length > 3) {
             document.getElementById('quienJuega').disabled = false;
       }
 }
